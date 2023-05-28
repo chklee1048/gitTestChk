@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>develope11</title>
+<title>mid-project</title>
 </head>
 <body>
 	첫번째 깃 프로젝트ssssssee
