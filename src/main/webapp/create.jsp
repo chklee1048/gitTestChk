@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>mid-project</title>
+<title>Insert title here</title>
 </head>
 <body>
-	첫번째 깃 프로젝트sssssseeee
+
 </body>
 </html>
