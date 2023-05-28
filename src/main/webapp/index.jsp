@@ -7,6 +7,6 @@
 <title>mid-project</title>
 </head>
 <body>
-	첫번째 깃 프로젝트ssssssee
+	첫번째 깃 프로젝트sssssseeee
 </body>
 </html>
