@@ -7,6 +7,6 @@
 <title>git Test</title>
 </head>
 <body>
-	첫번째 깃 프로젝트ss
+	첫번째 깃 프로젝트ssss
 </body>
 </html>
