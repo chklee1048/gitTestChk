@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>git Test</title>
+<title>git Test master</title>
 </head>
 <body>
 	첫번째 깃 프로젝트ssss
